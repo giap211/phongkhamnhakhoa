@@ -1,1 +1,2 @@
-1
+Phiên bản hiện tại : 1.0
+Đâng được cập nhật chức năng trả góp
